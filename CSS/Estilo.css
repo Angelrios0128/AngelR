@@ -1,0 +1,36 @@
+body {
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+}    
+    h1,h2,h3{
+        color:black
+    }
+
+    h1,h2,h3{
+        text-align: center;
+        font-family: sans-serif;
+        }
+
+
+        .foto{
+            text-align: center;
+        }
+        
+        img{
+            height: 200px;
+            width: 200px;
+            border-radius: 20%;
+            align-items: center;
+        
+        }
+        
+        .text-biografia{
+
+            margin: center;
+            text-align: center;
+            border-radius: 30px;
+            background-color: blue;
+        }
+        
+
+        
